@@ -1,10 +1,10 @@
-package spring_boot_expert.produtosapi;
+package io.github.Arleidt.arquiteturaspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProdutosApiApplicationTests {
+class ArquiteturaspringApplicationTests {
 
 	@Test
 	void contextLoads() {
